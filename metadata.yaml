@@ -1,0 +1,40 @@
+_repo: Life-Letters-and-Epicurean-Philosophy-of-Ninon-de-L-Enclos--13-The-Celebrated-Beauty-of-the-S__10665
+_version: 0.0.1
+contributor:
+  translators:
+  - agent_name: Robinson, Charles Henry
+    birthdate: 1841
+    gutenberg_agent_id: '4622'
+    url: http://www.gutenberg.org/2009/agents/4622
+  - agent_name: Overton, William Hassell
+    birthdate: 1868
+    gutenberg_agent_id: '4623'
+    url: http://www.gutenberg.org/2009/agents/4623
+creator:
+  author:
+    agent_name: Lenclos, Ninon de
+    aliases:
+    - Lenclos, Anne de
+    - L'Enclos, Ninon de
+    birthdate: 1620
+    deathdate: 1705
+    gutenberg_agent_id: '4624'
+    url: http://www.gutenberg.org/2009/agents/4624
+    wikipedia: http://en.wikipedia.org/wiki/Ninon_de_l%27Enclos
+description: ''
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10665'
+  lccn: '03015210'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lenclos, Ninon de, 1620-1705'
+- !lcc 'DC'
+- GITenberg
+title: "Life, Letters, and Epicurean Philosophy of Ninon de L'Enclos\r\nThe Celebrated\
+  \ Beauty of the Seventeenth Century"
+url: http://www.gutenberg.org/ebooks/10665
