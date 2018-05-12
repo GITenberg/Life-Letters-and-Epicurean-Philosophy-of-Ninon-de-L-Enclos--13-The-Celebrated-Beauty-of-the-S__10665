@@ -1,5 +1,5 @@
 _repo: Life-Letters-and-Epicurean-Philosophy-of-Ninon-de-L-Enclos--13-The-Celebrated-Beauty-of-the-S__10665
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   translators:
   - agent_name: Robinson, Charles Henry
@@ -10,6 +10,9 @@ contributor:
     birthdate: 1868
     gutenberg_agent_id: '4623'
     url: http://www.gutenberg.org/2009/agents/4623
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lenclos, Ninon de
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4624
     wikipedia: http://en.wikipedia.org/wiki/Ninon_de_l%27Enclos
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10665#Life-Letters-and-Epicurean-Philosophy-of-Ninon-de-L-Enclos--13-The-Celebrated-Beauty-of-the-S_
 gutenberg_issued: '2004-01-01'
 gutenberg_type: Text
 identifiers:
